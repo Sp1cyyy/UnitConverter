@@ -22,6 +22,7 @@ void newline(void);
 void distance(double amount, char type1[10], char type2[10]);
 void temperature(double amount, char type1[10], char type2[10]);
 void weight(double amount, char type1[10], char type2[10]);
+
 /*===========================================================================*/
 int
 main(int argc, char* argv[]){
