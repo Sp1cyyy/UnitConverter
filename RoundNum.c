@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
-
+//adsfasd
 int
 main(int argc, char* argv[]){
     double decimal;
